@@ -24,7 +24,6 @@
 <a href="https://www.behance.net/rishabhjain205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rishabhjain205" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishabh2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishabh2004" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/enris26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="enris26" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rishabh262004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rishabh262004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/enris26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enris26" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/enris26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="enris26" height="30" width="40" /></a>
 </p>
